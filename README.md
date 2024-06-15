@@ -1,4 +1,3 @@
-## Hi there 👋
 # Hi there, I'm Hrant Harutyunyan 👋
 
 ![Front-End Developer](https://img.shields.io/badge/Front--End%20Developer-%2300D4FF.svg?style=for-the-badge&logo=javascript&logoColor=white)
